@@ -23,7 +23,7 @@ This project analyzes HR data to understand patterns and drivers of employee att
 ## 🖼️ Dashboard Preview
 Below is the Power BI dashboard created for this analysis:
 
-![HR Dashboard](HR analysis.png)
+![HR Dashboard](https://github.com/Gagan-Kumar-Profile/IBM-HR-DATASET-ANALYSIS-POWER-BI/blob/main/HR%20analysis.png)
 
 
 
